@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const productList = document.getElementById("productList");
     
     // fetch event
-    fetch("http://localhost:8000/products")
+    fetch("https://point-of-sale-opxt.onrender.com/products")
     .then((response) => response.json())
     .then((products) => {
         products.forEach(product => {
