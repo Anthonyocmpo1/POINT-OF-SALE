@@ -86,7 +86,7 @@ Contact:0715284708
 Email:mwauraa.gmail.com
 
 ## Live Links
-GitHub Repository: https://anthonyocmpo1.github.io/POINT-O 
+GitHub Repository: https://anthonyocmpo1.github.io/POINT-OF-SALE/
 Live Application: https://point-of-sale-opxt.onrender.com
 
 
