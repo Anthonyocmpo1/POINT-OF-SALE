@@ -85,6 +85,11 @@ Name:Anthony mwaura
 Contact:0715284708
 Email:mwauraa.gmail.com
 
+## Live Links
+GitHub Repository: Point of Sale Application
+Live Application:https://point-of-sale-opxt.onrender.com
+
+
 ### Acknowledgments
 Bootstrap for the responsive design.
 json-server for the quick setup of a mock REST API.
