@@ -85,10 +85,10 @@ Name:Anthony mwaura
 Contact:0715284708
 Email:mwauraa.gmail.com
 
-## Live Links
-GitHub Repository: https://anthonyocmpo1.github.io/POINT-OF-SALE/
-Live Application: https://point-of-sale-opxt.onrender.com
-
+## live serve Links
+## : https://anthonyocmpo1.github.io/POINT-OF-SALE/
+## render: https://point-of-sale-opxt.onrender.com
+## slide link:https://docs.google.com/presentation/d/1Yc_ZdFRxDj002sKReI6lpJRJ3gaK-cfrYZgOpA26hKE/edit?usp=sharing
 
 ### Acknowledgments
 Bootstrap for the responsive design.
